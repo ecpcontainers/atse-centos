@@ -1,0 +1,4 @@
+[atse-1.0.0]
+name=atse-1.0.0
+baseurl=http://gato2.sandia.gov/ATSE:/1.0.0/CentOS_7
+gpgcheck=0
